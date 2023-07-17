@@ -165,6 +165,7 @@ div.video iframe {
     left: 5%;
     height: 90%;
     width: 90%;
+    border-radius: 8px;
 }
 
 aside {
